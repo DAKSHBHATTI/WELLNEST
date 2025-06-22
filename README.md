@@ -1,6 +1,6 @@
 # WELLNEST: Your Personal AI-Powered Wellness Companion
 
-![WELLNEST Dashboard](https://i.imgur.com/your-dashboard-screenshot.png) <!-- Replace with an actual screenshot URL -->
+![WELLNEST Dashboard](https://github.com/DAKSHBHATTI/WELLNEST/issues/1#issue-3166092844) <!-- Replace with an actual screenshot URL -->
 
 WELLNEST is a comprehensive full-stack web application designed to empower users to take control of their health and well-being. It combines essential health tracking tools with an intelligent AI assistant to provide personalized insights and support. With a sleek, modern, and responsive interface featuring both light and dark modes, WELLNEST offers a seamless user experience.
 
